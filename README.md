@@ -48,6 +48,7 @@
 - [AngularVienna](https://www.meetup.com/Angular-Vienna) - Angular meetup in Vienna, once a month.
 - [Node.js Vienna](https://www.meetup.com/nodejs-vienna/) - Node.js meetup in Vienna, once a month.
 - [Free Code Camp Vienna](https://www.meetup.com/de-DE/Free-Code-Camp-Vienna/) - FreeCodeCamp meetup in Vienna, once a month.
+- [.NET Community Austria](https://www.meetup.com/dotnet-austria/) - .Net meetup in Vienna, once a month.
 
 ### Linz
 - [Lugl](http://lugl.at) - Linux User Group Linz.
@@ -80,6 +81,7 @@
 - [Barcamp Salzburg](https://barcamp-sbg.at/) - Barcamp "The Next Web" in Salzburg.
 - [.concat()](https://2018.conc.at/) - Web development & UX conference in Salzburg.
 - [ScriptConf](https://scriptconf.org) - JavaScript conference in Linz.
+- [Agile Tour Vienna](https://agiletourvienna.at/) - Non-profit agile software development conference in Vienna.
 
 ## Museums
 
